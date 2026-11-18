@@ -1,0 +1,6 @@
+{
+  "name": "ARGUS",
+  "description": "Autonomous AI penetration-testing and security-intelligence SaaS platform. See Every Weakness. Secure Every Layer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
